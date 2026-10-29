@@ -1,0 +1,19 @@
+.home{
+    margin:20px;
+    padding:20px;
+    background-color: rgb(119, 161, 216);
+    color: #1dc7c7;
+    border-radius: 40px;
+    height: 60%;
+    width: 30%;
+    display:block;
+    align-items: center;
+    justify-content: center;
+    
+}
+.kunas-logo {
+    width: 120px;
+    height: auto;
+    object-fit: contain;
+}
+
